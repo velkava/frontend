@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Header__NavLinks {
+  @apply flex lg:gap-x-12;
+}
+
+.Header__NavLinks-item {
+  @apply text-sm/6 font-semibold text-gray-900;
+}

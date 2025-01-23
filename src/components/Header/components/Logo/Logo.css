@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Header__Logo {
+  @apply -m-1.5 p-1.5;
+}
+
+.Header__Logo-alt {
+  @apply sr-only;
+}
+
+.Header__Logo-image {
+  @apply h-8 w-auto;
+}

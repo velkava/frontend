@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Header__MenuButton {
+  @apply -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700;
+}
+
+.Header__MenuButton-label {
+  @apply sr-only;
+}
+
+.Header__MenuButton-icon {
+  @apply size-6;
+}

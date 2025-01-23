@@ -1,0 +1,19 @@
+{
+  "header": {
+    "links": {
+      "wiki": "Tietopankki",
+      "forum": "Keskustelupalsta",
+      "support": "Tukipalvelut",
+      "login": "Tunnistaudu"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "Velkava - Esteetöntä velanhoitoa",
+      "description": "Velkava on helppokäyttöinen palvelu, joka auttaa sinua hallitsemaan velkojasi ja laatimaan selkeän suunnitelman velattomuuden saavuttamiseksi. Ota taloutesi hallintaan ja seuraa edistymistäsi kohti parempaa tulevaisuutta."
+    },
+    "hero": {
+      "heading": "Kohti velkavapautta, askel kerrallaan"
+    }
+  }
+}

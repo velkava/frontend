@@ -1,0 +1,19 @@
+{
+  "header": {
+    "links": {
+      "wiki": "Kunskapsbank",
+      "forum": "Diskussionsforum",
+      "support": "Supporttjänster",
+      "login": "Logga in"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "Velkava - Obehindrad skuldförvaltning",
+      "description": "Velkava är en lättanvänd tjänst som hjälper dig att hantera dina skulder och skapa en tydlig plan för att nå skuldfrihet. Ta kontroll över din ekonomi och följ dina framsteg mot en bättre framtid."
+    },
+    "hero": {
+      "heading": "Mot skuldfrihet, ett steg i taget"
+    }
+  }
+}
